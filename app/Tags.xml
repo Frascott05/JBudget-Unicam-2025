@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tags>
+    <tag id="1" name="Hobby">
+        <tag id="2" name="Lettura"/>
+        <tag id="3" name="Giardinaggio"/>
+    </tag>
+    <tag id="4" name="Tecnologia">
+        <tag id="5" name="Computer"/>
+        <tag id="6" name="Smartphone"/>
+    </tag>
+    <tag id="7" name="Salute">
+        <tag id="8" name="Esercizio"/>
+        <tag id="9" name="Alimentazione"/>
+    </tag>
+    <tag id="10" name="Viaggi">
+        <tag id="11" name="Mare"/>
+        <tag id="12" name="Montagna"/>
+    </tag>
+    <tag id="13" name="Musica">
+        <tag id="14" name="Rock"/>
+        <tag id="15" name="Classica"/>
+    </tag>
+    <tag id="16" name="Cibo">
+        <tag id="17" name="Spesa"/>
+        <tag id="18" name="Ristorante"/>
+    </tag>
+    <tag id="19" name="Casa">
+        <tag id="20" name="Affitto"/>
+        <tag id="21" name="Bollette"/>
+    </tag>
+    <tag id="22" name="Auto">
+        <tag id="23" name="Carburante"/>
+        <tag id="24" name="Manutenzione"/>
+    </tag>
+    <tag id="25" name="Entrate">
+        <tag id="26" name="Stipendio"/>
+        <tag id="27" name="Rimborso"/>
+    </tag>
+</tags>
