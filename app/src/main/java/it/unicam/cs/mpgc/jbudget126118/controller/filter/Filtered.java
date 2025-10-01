@@ -34,7 +34,7 @@ import java.util.List;
  */
 public interface Filtered<T> {
 
-    /**
+    /**daje
      *  Returns a list of items filtered.
      * 
      * @return filtered list of items
